@@ -12,3 +12,4 @@ Este proyecto es un clon de la interfaz de Pinterest, creado puramente con HTML 
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
+![Demo](/imagenes/Painterestscreen.png)
